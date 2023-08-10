@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Exception_Handling
+namespace hatayakalama
 {
 	internal class Program
 	{
